@@ -16,3 +16,5 @@ There is no wrong or right way of completing this task. We only ask to use TypeS
 
 
 ## Design Example
+
+<img width="1510" alt="test" src="https://user-images.githubusercontent.com/121022722/209700172-ed120071-08b8-4246-9e74-3fa50bcaa471.png">
